@@ -33,7 +33,6 @@ Use all the tags you have learned to logically compose your page
 	* Education
 	* Skills (3 skills minimum)
 	* LinkedIn Profile Address (This should be a link that opens a new tab in the browser
-	* Profile Image
 	* Any awards and/or certificates if applicable
 	* Open or Refresh file in your web browser
 
